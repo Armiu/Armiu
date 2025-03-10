@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Arina 👋
 
-<!--
-**Armiu/Armiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 I am currently studying at **Lomonosov Moscow State University** (Bs):<br />
+     _Faculty of Computational Mathematics and Cybernetics_<br />
+     _Qualification: Applied Mathematics and Computer Science_<br />
+     _Department of of Mathematical Physics_<br />
+     _Laboratory of mathematical methods of image processing_<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+   * Telegram : [@illlul8r](https://t.me/illlul8r)
+   * E-mail : [khlopinskaia@yandex.ru](mailto:khlopinskaia@yandex.ru)
+    
+- [My CV](https://github.com/Armiu/Armiu/blob/main/CV_rus.pdf)
