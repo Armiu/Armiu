@@ -4,7 +4,7 @@
 👩‍💻 I am currently studying at **Lomonosov Moscow State University** (Bs):<br />
      _Faculty of Computational Mathematics and Cybernetics_<br />
      _Qualification: Applied Mathematics and Computer Science_<br />
-     _Department of of Mathematical Physics_<br />
+     _Department of Mathematical Physics_<br />
      _Laboratory of mathematical methods of image processing_<br />
 
 - 📫 How to reach me: 
